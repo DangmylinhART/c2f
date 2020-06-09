@@ -5,6 +5,20 @@
 
 
 
+// const userInput = getInput(0)
+// const result = userInput + '!';
+// console.log (' The answer is:')
+// console.log (result)
+
+
+const userInput = getInput(0)
+const result = userInput * 9 / 5 + 32;
+console.log(userInput + 'in Celsius is' + result + 'in Fahrenheit')
+console.log(result)
+
+
+
+
 
 /*******************************************************************************
   The below helper function will return an argument the user used when launching
